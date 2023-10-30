@@ -14,11 +14,17 @@ jupiter = Planet( "Jupiter", 778.5, 69911,)
 
 print(mars.antallRinger)
 
+
 # Oppgave 1: 
 # Lag et objekt for Mars, Jupiter og Jorda, der du lagrer informasjon om navn, solavstand og radius. Lagre disse objektene i egne variabler
 
 # Hva skjer om du skriver print(Jorda)?
 # Hva skjer om du skriver print(Jorda.navn)?
 # Prøv å skriv ut de andre attributtene til klassen
-
+print(jorden)
+print(jorden.navn)
+print(jorden.antallRinger)
 # OBS: pass på rekkefølgen i argumentene til konstruktøren.
+
+
+
